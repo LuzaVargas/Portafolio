@@ -1,3 +1,5 @@
+/*Se adaptará para utilizarlo luego con el dominio*/
+
 <?php
 $name = $_POST[name];
 $email = $_POST['email'];
